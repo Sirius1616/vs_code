@@ -9,6 +9,6 @@ class Parent:
     
 
 apple = Parent("Green", 23)
-new = 5
+new = 5j
 print(4)g
 apple.plant()
