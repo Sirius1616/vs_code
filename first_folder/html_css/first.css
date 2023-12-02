@@ -1,4 +1,4 @@
-h1{
+h4{
     color: rgb(255, 0, 200);
 }
 
@@ -8,7 +8,17 @@ h1{
     border: 1px solid #ccc;
 }
 header{
-    color: #FF0000 (red);
+    color: #FF0000;
     height: 70px;
     width: 100%
 }
+div {
+    height: 100px;
+    margin: 20px;
+  }
+  .box{
+    width: 300;
+    height: 200;
+    background: red;
+    border: 2px solid blue;
+  }
